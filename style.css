@@ -1,0 +1,25 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+td {
+    width: 300px;
+}
+
+.table-hover thead tr:hover th, .table-hover tbody tr:hover td {
+    background-color: black;
+    color: rosybrown;
+}
+
+
+
+
+
+
+
+
